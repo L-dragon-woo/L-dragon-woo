@@ -19,42 +19,17 @@
 ## 🛠️ Tech Stacks
 
 ### 🔹 Language & Framework
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
-<br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
-
----
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
 
 ### 🔹 Database & Cache
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=Redis&logoColor=white">
-
----
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=Redis&logoColor=white">
 
 ### 🔹 DevOps & Infrastructure
-<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=Github&logoColor=white">
-
----
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=plastic&logo=Argo&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=RabbitMQ&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=black"> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=Github&logoColor=white">
 
 ### 🔹 Front & Collaboration
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
 
----
 
 ## 🧑‍💻 Contact me
 
@@ -79,5 +54,8 @@
 ## 🏅 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=L-dragon-woo&show_icons=true&theme=radical" />
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhtm008)](https://solved.ac/qhtm008/)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-dragon-woo&layout=compact&theme=radical" />
 
