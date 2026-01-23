@@ -53,7 +53,14 @@
 
 ## 🏅 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=L-dragon-woo&show_icons=true&theme=radical" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=L-dragon-woo&theme=tokyonight)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=L-dragon-woo&theme=tokyonight)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=L-dragon-woo
+&show_icons=true&theme=radical" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhtm008)](https://solved.ac/qhtm008/)
 
