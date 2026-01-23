@@ -64,5 +64,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhtm008)](https://solved.ac/qhtm008/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-dragon-woo&layout=compact&theme=radical" />
-
